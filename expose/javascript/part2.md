@@ -41,7 +41,7 @@
 
 11. What will this function return? Give a brief explanation. If the code causes an error, explain why.
      
-    50, 100, 150 ] The result is a list storing the prices after appling the discount. Every single price is being calculate by multipling the discount, and are pushed to the list called discounted.
+    [ 50, 100, 150 ] The result is a list storing the prices after appling the discount. Every single price is being calculate by multipling the discount, and are pushed to the list called discounted.
 
 12. Given the above Object, write the notation for:  (These should be in your part2.md)
     
